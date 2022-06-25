@@ -1,7 +1,9 @@
 # Hello!
 
-1. 🎓 I am an Undergraduate Student. [IISER Bhopal](https://iiserb.ac.in).  
-2. 📖 EECS Major.
-3. ❤️ Physics (almost everything), Computer Science (algorithms, complexity and theory).
-4. 💻 My weapons of choice (In order of preference): Julia, Python, Mathematica (Inline functions for everything!), Pen (or Pencil) and Paper.
-5. 🎥 Things I like to do when I am not working: Bansuri (bamboo flute), Read and *sleep*.
+🎓 I am an Undergraduate Student majoring in Electrical Engineering and Computer Science at [IISER Bhopal](https://iiserb.ac.in).
+
+❤️ I love studying physics and working on computational problems. I mostly use Julia as a tool for that.
+
+🎥 Things I like to do when I am not working: Practice flute, read or sleep.
+
+📱 My blog: [Bits of Typing](https://jaydevsr.github.io/blog), Email: jaydevsrao[at]gmail.com
