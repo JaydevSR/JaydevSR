@@ -5,7 +5,7 @@
 
 <br>
 
-🎓 I am an undergraduate student majoring in Electrical Engineering and Computer Science at [IISER Bhopal](https://iiserb.ac.in).
+🎓 I am an undergraduate student majoring in EECS at [IISER Bhopal](https://iiserb.ac.in).
 
 ❤️ I love studying physics and computer science and enjoy working on computational problems in statistical physics.
     ↳ Julia is a tool of choice for me.
