@@ -13,7 +13,7 @@
 💻 Right now I am trying to contribute to [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) as a GSoC student.
     ↳ Other than that I am also involved in research on spin models and their applications using Monte-Carlo simulations.
 
-🎵 Other than that I am really into Indian classical music and learning to play bamboo flute.
+🎵 I am also really into Indian classical music and learning to play the bamboo flute in my free time.
 
 📱 [My homepage](https://jaydevsr.github.io/)
     ↳ [My blog](https://jaydevsr.github.io/blog)
