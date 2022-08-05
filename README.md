@@ -1,19 +1,23 @@
-<hr style=""/>
-
 <br>
 
+```html
 <h1 align="center">👋 Hello! I am Jaydev!</h1>
 
 <br>
 
-🎓 I am an Undergraduate Student majoring in Electrical Engineering and Computer Science at [IISER Bhopal](https://iiserb.ac.in).
+🎓 I am an undergraduate student majoring in Electrical Engineering and Computer Science at [IISER Bhopal](https://iiserb.ac.in).
 
-❤️ I love studying physics and working on computational problems. I mostly use Julia as a tool for that.
+❤️ I love studying physics and computer science and enjoy working on computational problems in statistical physics.
+    ↳ Julia is a tool of choice for me.
 
-🎥 Things I like to do when I am not working: Practice flute, read or sleep.
+💻 Right now I am trying to contribute to [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) as a GSoC student.
+    ↳ Other than that I am also involved in research on spin models and their applications using Monte-Carlo simulations.
 
-📱 My blog: [Bits of Typing](https://jaydevsr.github.io/blog), Email: jaydevsrao[at]gmail.com
+🎵 Other than that I am really into Indian classical music and learning to play bamboo flute.
 
-<br><br>
+📱 [My homepage](https://jaydevsr.github.io/)
+    ↳ [My blog](https://jaydevsr.github.io/blog)
+    ↳ [My email](mailto:jaydevsrao@gmail.com)
 
-<hr style=""/>
+<br>
+```
