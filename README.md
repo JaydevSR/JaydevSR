@@ -15,7 +15,7 @@
     ↳ I am also involved in research on spin models and their applications using Monte-Carlo simulations. 
     ↳ Other than that I am trying to contribute to open-source projects in Julia, mainly Molly.jl.
 
-🎵 I am also really into Indian classical music and learning to play the bamboo flute in my free time.
+🎵 As for my hobbies, I am really into Indian classical music and learning to play the bamboo flute in my free time.
     
 🤝 I am also available for mentorship to Junior (relative to me) students about open-source, undergraduate research etc.
     ↳ If you are one feel free to contact me!
