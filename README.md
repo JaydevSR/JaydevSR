@@ -9,11 +9,11 @@
 
 ❤️ I love studying physics and computer science and enjoy working on computational problems.
     ↳ I especially love problems which <emph>I</emph> can probably never solve without a computer.
-    ↳ Julia is a tool of choice for me.
+    ↳ Julia is the tool of choice for me.
 
 📖 Right now I am trying to deal with my undergraduate courses.
     ↳ I am also involved in research on spin models and their applications using Monte-Carlo simulations. 
-    ↳ Other than that I am trying to contribute to open-source projects in Julia, mainly Molly.jl.
+    ↳ Other than that I am trying to contribute to open-source projects in Julia.
 
 🎵 As for my hobbies, I am really into Indian classical music and learning to play the bamboo flute in my free time.
     
