@@ -17,8 +17,8 @@
 
 🎵 As for my hobbies, I am really into Indian classical music and learning to play the bamboo flute in my free time.
     
-🤝 I am also available for mentorship to junior (relative to me) students about open-source, undergraduate research etc.
-    ↳ If you are one feel free to contact me!
+🤝 If you want to talk to me about anything then feel free to reach out to me on the email given below.
+    ↳ I am usually very quick to reply 😉
 
 💻 [My homepage](https://jaydevsr.github.io/)
     ↳ [My blog](https://jaydevsr.github.io/blog)
