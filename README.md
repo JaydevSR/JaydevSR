@@ -5,7 +5,7 @@
 
 <br>
 
-🎓 I am an undergraduate student majoring in EECS at [IISER Bhopal](https://iiserb.ac.in).
+🎓 I graduated from [IISER Bhopal](https://iiserb.ac.in) with a BS in EECS in the year 2023.
 
 ❤️ I love studying physics and computer science and enjoy working on computational problems.
     ↳ I especially love problems which <emph>I</emph> can probably never solve without a computer.
