@@ -14,7 +14,7 @@
     ↳ So, my day revolves around the usual stuff: PhD related things, reading papers, research projects etc.
 
 🎵 As for my hobbies, I am really into Indian classical music and learning new languages.
-    ↳ I also like to whittling, reading and sketching in between.
+    ↳ I also like to whittling and sketching in between.
     
 🤝 If you want to talk to me about anything then feel free to reach out to me on the email given below.
     ↳ I am usually very quick to reply 😉
