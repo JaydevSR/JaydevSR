@@ -11,7 +11,7 @@
     ↳ I am also passinate about computer science and writing code to do cool stuff (I am sure you know what cool stuff I mean if you're here *wink*)
 
 📖 Right now I am preparing myself for an academic career as a Physicist.
-    ↳ So, my day revolves around the usual stuff: PhD, papers, projects etc.
+    ↳ So, my day revolves around the usual stuff: PhD related things, reading papers, research projects etc.
 
 🎵 As for my hobbies, I am really into Indian classical music and learning new languages.
     ↳ I also like to whittling, reading and sketching in between.
